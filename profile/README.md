@@ -29,6 +29,12 @@
 
     [![Bit Org Learnbit React](https://img.shields.io/badge/Bit-@learnbit--react-2C00C3)](https://bit.cloud/learnbit-react)
     [![Scope Common Render Context](https://img.shields.io/badge/Scope-Common_Render_Context_(4)-820596)](https://bit.cloud/learnbit-react/common-render-context)
+    
+5. [Docker Containers for Bit Development](https://github.com/bitdev-community/bit-docker-image)
+
+    [![Bit Docker](https://img.shields.io/badge/Bit-Docker-086dd7)](https://hub.docker.com/u/bitsrc) [![Bit Docker Node 17](https://img.shields.io/badge/Image-bitsrc/dev--node17:0.1.46-brightgreen)](https://hub.docker.com/r/bitsrc/dev-node17) [![Bit Docker Node 16 More Heap](https://img.shields.io/badge/Image-bitsrc/dev--node16m:0.1.46-brightgreen)](https://hub.docker.com/r/bitsrc/dev-node16m) [![Bit Docker Node 16](https://img.shields.io/badge/Image-bitsrc/dev--node16:0.1.46-brightgreen)](https://hub.docker.com/r/bitsrc/dev-node16) [![Bit Docker Node 15](https://img.shields.io/badge/Image-bitsrc/dev--node15:0.1.46-brightgreen)](https://hub.docker.com/r/bitsrc/dev-node15)
+
+    
 
 ### 🌈 Contribute
 If you have build something cool using [bit](https://bit.dev) and would like to share with the rest of the world we invite you to contribute to our community! 
