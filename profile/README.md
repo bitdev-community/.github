@@ -35,6 +35,7 @@
     [![Bit Docker](https://img.shields.io/badge/Bit-Docker-086dd7)](https://hub.docker.com/u/bitsrc) ![version](https://img.shields.io/badge/Image-bitsrc/dev:0.1.48-brightgreen) ![version](https://img.shields.io/badge/Image-bitsrc/dev:0.1.48m-brightgreen) ![version](https://img.shields.io/badge/Image-bitsrc/dev:0.1.42-brightgreen) ![version](https://img.shields.io/badge/Image-bitsrc/dev:0.1.42m-brightgreen)
     
 6. [Fullstack Legacy App to Bit](https://github.com/bitdev-community/fullstack-legacy-with-bit)
+
     [![Bit Org Learnbit](https://img.shields.io/badge/Bit-@learnbit-2C00C3)](https://bit.cloud/learnbit)
     [![Scope Hello World](https://img.shields.io/badge/Scope-Bit--Pioneers_(2)-820596)](bit-pioneers)
 
