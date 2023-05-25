@@ -37,7 +37,7 @@
 6. [Fullstack Legacy App to Bit](https://github.com/bitdev-community/fullstack-legacy-with-bit)
 
     [![Bit Org Learnbit](https://img.shields.io/badge/Bit-@learnbit-2C00C3)](https://bit.cloud/learnbit)
-    [![Scope Hello World](https://img.shields.io/badge/Scope-Bit--Pioneers_(4)-820596)](bit-pioneers)
+    [![Scope Hello World](https://img.shields.io/badge/Scope-Bit--Pioneers_(2)-820596)](bit-pioneers)
 
 ### 🌈 Contribute
 If you have build something cool using [bit](https://bit.dev) and would like to share with the rest of the world we invite you to contribute to our community! 
