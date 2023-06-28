@@ -39,6 +39,12 @@
     [![Bit Org Learnbit](https://img.shields.io/badge/Bit-@learnbit-2C00C3)](https://bit.cloud/learnbit)
     [![Scope Hello World](https://img.shields.io/badge/Scope-Bit--Pioneers_(2)-820596)](https://bit.cloud/learnbit/bit-pioneers)
 
+7. [Bit Pulumi Demo](https://github.com/bitdev-community/bit-pulumi)
+
+    [![BitPulumi](https://img.shields.io/badge/Bit-@bitpulumi-2C00C3)](https://bit.cloud/bitpulumi)
+    [![Scope AWS Demo](https://img.shields.io/badge/Scope-AWS_Demo_(4)-820596)](https://bit.cloud/bitpulumi/awsdemo)
+    [![Scope Development](https://img.shields.io/badge/Scope-Development_(1)-820596)](https://bit.cloud/bitpulumi/development)
+    [![Scope Apps](https://img.shields.io/badge/Scope-Apps_(1)-820596)](https://bit.cloud/bitpulumi/apps)
 ### 🌈 Contribute
 If you have build something cool using [bit](https://bit.dev) and would like to share with the rest of the world we invite you to contribute to our community! 
 
