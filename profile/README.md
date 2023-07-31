@@ -30,7 +30,7 @@
     [![Bit Org Learnbit React](https://img.shields.io/badge/Bit-@learnbit--react-2C00C3)](https://bit.cloud/learnbit-react)
     [![Scope Common Render Context](https://img.shields.io/badge/Scope-Common_Render_Context_(4)-820596)](https://bit.cloud/learnbit-react/common-render-context)
     
-5. [Docker Containers for Bit Development](https://github.com/bitdev-community/bit-docker-image)
+5. [Docker Images for Bit DevOps](https://github.com/bitdev-community/bit-docker-image)
 
     [![Bit Docker](https://img.shields.io/badge/Bit-Docker-086dd7)](https://hub.docker.com/u/bitsrc) [![version](https://img.shields.io/badge/Image-bitsrc/stable:latest-brightgreen)](https://hub.docker.com/layers/bitsrc/stable/latest/images/sha256-e0f1fe5332e633b382185b08c17d0e3a7db898ec648f79eaa9bfa40caa663ce0?context=explore) [![version](https://img.shields.io/badge/Image-bitsrc/nightly:latest-brightgreen)](https://hub.docker.com/layers/bitsrc/nightly/latest/images/sha256-e0f1fe5332e633b382185b08c17d0e3a7db898ec648f79eaa9bfa40caa663ce0?context=explore)
     
