@@ -32,7 +32,7 @@
     
 5. [Docker Containers for Bit Development](https://github.com/bitdev-community/bit-docker-image)
 
-    [![Bit Docker](https://img.shields.io/badge/Bit-Docker-086dd7)](https://hub.docker.com/u/bitsrc) ![version](https://img.shields.io/badge/Image-bitsrc/dev:latest-brightgreen)
+    [![Bit Docker](https://img.shields.io/badge/Bit-Docker-086dd7)](https://hub.docker.com/u/bitsrc) [![version](https://img.shields.io/badge/Image-bitsrc/stable:latest-brightgreen)](https://hub.docker.com/layers/bitsrc/stable/latest/images/sha256-e0f1fe5332e633b382185b08c17d0e3a7db898ec648f79eaa9bfa40caa663ce0?context=explore) [![version](https://img.shields.io/badge/Image-bitsrc/nightly:latest-brightgreen)](https://hub.docker.com/layers/bitsrc/nightly/latest/images/sha256-e0f1fe5332e633b382185b08c17d0e3a7db898ec648f79eaa9bfa40caa663ce0?context=explore)
     
 6. [Fullstack Legacy App to Bit](https://github.com/bitdev-community/fullstack-legacy-with-bit)
 
