@@ -30,16 +30,13 @@
     [![Bit Org Learnbit React](https://img.shields.io/badge/Bit-@learnbit--react-2C00C3)](https://bit.cloud/learnbit-react)
     [![Scope Common Render Context](https://img.shields.io/badge/Scope-Common_Render_Context_(4)-820596)](https://bit.cloud/learnbit-react/common-render-context)
     
-5. [Docker Images for Bit DevOps](https://github.com/bitdev-community/bit-docker-image)
-
-    [![Bit Docker](https://img.shields.io/badge/Bit-Docker-086dd7)](https://hub.docker.com/u/bitsrc) [![version](https://img.shields.io/badge/Image-bitsrc/stable:latest-brightgreen)](https://hub.docker.com/layers/bitsrc/stable/latest/images/sha256-e0f1fe5332e633b382185b08c17d0e3a7db898ec648f79eaa9bfa40caa663ce0?context=explore) [![version](https://img.shields.io/badge/Image-bitsrc/nightly:latest-brightgreen)](https://hub.docker.com/layers/bitsrc/nightly/latest/images/sha256-e0f1fe5332e633b382185b08c17d0e3a7db898ec648f79eaa9bfa40caa663ce0?context=explore)
     
-6. [Fullstack Legacy App to Bit](https://github.com/bitdev-community/fullstack-legacy-with-bit)
+5. [Fullstack Legacy App to Bit](https://github.com/bitdev-community/fullstack-legacy-with-bit)
 
     [![Bit Org Learnbit](https://img.shields.io/badge/Bit-@learnbit-2C00C3)](https://bit.cloud/learnbit)
     [![Scope Hello World](https://img.shields.io/badge/Scope-Bit--Pioneers_(2)-820596)](https://bit.cloud/learnbit/bit-pioneers)
 
-7. [Bit Pulumi Demo](https://github.com/bitdev-community/bit-pulumi)
+6. [Bit Pulumi Demo](https://github.com/bitdev-community/bit-pulumi)
 
     [![BitPulumi](https://img.shields.io/badge/Bit-@bitpulumi-2C00C3)](https://bit.cloud/bitpulumi)
     [![Scope AWS Demo](https://img.shields.io/badge/Scope-AWS_Demo_(4)-820596)](https://bit.cloud/bitpulumi/awsdemo)
